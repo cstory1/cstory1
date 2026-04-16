@@ -219,10 +219,9 @@ I'm always interested in hearing about new opportunities, interesting projects, 
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adeleke-oluwatobi)
-  [![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](mailto:tobiadiks@gmail.com)
+ 
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/cstory1)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://adelekeoluwatobi.com)
+
   
 </div>
 
