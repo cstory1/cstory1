@@ -164,19 +164,19 @@ Implementing effective testing strategies using Jest, PyTest, and Cypress for ro
 
 ## 💬 Testimonials
 
-> **"Adeleke transformed our legacy frontend system into a modern React architecture. His expertise in TypeScript and Redux significantly improved our application's performance and maintainability. The migration was seamless and delivered ahead of schedule."**
+> **"He transformed our legacy frontend system into a modern React architecture. His expertise in TypeScript and Redux significantly improved our application's performance and maintainability. The migration was seamless and delivered ahead of schedule."**
 > 
 > — **Sarah Johnson**, Senior Frontend Developer at Ezyride • 2025
 
-> **"Working with Adeleke on our microservices architecture was exceptional. His knowledge of Node.js and Python frameworks helped us build a robust, scalable backend. The CI/CD pipeline he implemented reduced our deployment time by 70%."**
+> **"Working with him on our microservices architecture was exceptional. His knowledge of Node.js and Python frameworks helped us build a robust, scalable backend. The CI/CD pipeline he implemented reduced our deployment time by 70%."**
 > 
 > — **Michael Chen**, Engineering Manager at Noble Recruitment • 2022
 
-> **"Adeleke's expertise in API development and security is outstanding. He implemented OAuth2 and JWT authentication for our platform, ensuring robust security while maintaining excellent performance. His attention to detail is remarkable."**
+> **"His expertise in API development and security is outstanding. He implemented OAuth2 and JWT authentication for our platform, ensuring robust security while maintaining excellent performance. His attention to detail is remarkable."**
 > 
 > — **Robert Thompson**, Product Manager at Learnali • 2020
 
-> **"As a CTO, Adeleke brings exceptional leadership and technical vision. His mentoring of junior developers and implementation of Agile methodologies transformed our development process. He consistently delivers high-quality solutions that exceed expectations."**
+> **"As a CTO, He brings exceptional leadership and technical vision. His mentoring of junior developers and implementation of Agile methodologies transformed our development process. He consistently delivers high-quality solutions that exceed expectations."**
 > 
 > — **Lisa Rodriguez**, CEO at CVC Consulting • 2023
 
