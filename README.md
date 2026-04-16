@@ -5,8 +5,7 @@
   
   ### Senior Software Engineer
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeleke%20Oluwatobi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adeleke-oluwatobi)
-  [![Email](https://img.shields.io/badge/Email-tobiadiks%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:tobiadiks@gmail.com)
+
   [![GitHub](https://img.shields.io/badge/GitHub-cstory1-black?style=for-the-badge&logo=github)](https://github.com/cstory1)
   [![Location](https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-green?style=for-the-badge&logo=location)](https://maps.google.com/?q=Lagos,Nigeria)
 </div>
