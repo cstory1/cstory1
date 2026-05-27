@@ -82,7 +82,7 @@ Developed an interactive eLearning platform, resulting in a 40% increase in cour
 - Enhanced personalized learning outcomes through adaptive learning implementation
 
 ### 🚗 Fullstack Software Engineer
-**Ezyride Global Resources Limited** | May 2024 — May 2025
+**Ezyride Global Resources Limited** | May 2024 — Feb 2025
 
 Spearheaded design and development of a ride-sharing platform, boosting user engagement by 30% and enhancing operational efficiency by 25%. Designed and implemented high-quality solutions that align with business goals and enhance overall operational performance.
 
