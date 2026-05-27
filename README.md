@@ -1,7 +1,7 @@
 # Senior Software Engineer Portfolio
 
 <div align="center">
-  <img src="assets/images/my-avatar.png" alt="Adeleke Oluwatobi" width="200" style="border-radius: 50%;">
+  <img src="assets/images/my-avatar.png" alt="Daniel Taiye Segun" width="200" style="border-radius: 50%;">
   
   ### Senior Software Engineer
   
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Software Developer with a strong focus on building innovative software solutions that enhance user experience, optimize operational efficiency, and drive business growth. With a passion for leveraging cutting-edge technologies such as AI and web development, I am dedicated to developing scalable, secure, and high-quality applications that deliver measurable impact.
+Daniel Taiye Segun is a Software Developer with a strong focus on building innovative software solutions that enhance user experience, optimize operational efficiency, and drive business growth. With a passion for leveraging cutting-edge technologies such as AI and web development, I am dedicated to developing scalable, secure, and high-quality applications that deliver measurable impact.
 
 Adept at working collaboratively with cross-functional teams, mentoring junior developers, and continuously improving processes, my aim is to contribute to organizations that value technological innovation, efficiency, and data-driven decision-making.
 
@@ -59,8 +59,8 @@ Adept at working collaboratively with cross-functional teams, mentoring junior d
 
 ## 💼 Professional Experience
 
-### 🤖 AI Integration Developer
-**Be Better** | Oct 2024 — Jan 2025
+### SWE1 
+**DMW** | Nov 2025 — present
 
 Designed the architecture and development framework for an AI feedback agent capable of providing contextual, actionable insights across various domains. Leveraged advanced natural language processing (NLP) techniques, domain-specific knowledge bases, and dynamic user profiling to ensure personalized, high-quality feedback delivery with response speed increased by 40%.
 
@@ -230,7 +230,7 @@ I'm always interested in hearing about new opportunities, interesting projects, 
 <div align="center">
   
   ### 📍 Location
-  **Lagos, Nigeria** 🇳🇬
+  **Kaduna, Nigeria** 🇳🇬
   
   ### 🕒 Available For
   - **Full-time opportunities**
