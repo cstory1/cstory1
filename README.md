@@ -7,14 +7,14 @@
   
 
   [![GitHub](https://img.shields.io/badge/GitHub-cstory1-black?style=for-the-badge&logo=github)](https://github.com/cstory1)
-  [![Location](https://img.shields.io/badge/Location-Kaduna%2C%20Nigeria-green?style=for-the-badge&logo=location)](https://maps.google.com/?q=Kaduna,Nigeria)
+  [![Location](https://img.shields.io/badge/Location-Lagoa%2C%20Nigeria-green?style=for-the-badge&logo=location)](https://maps.google.com/?q=Lagos,Nigeria)
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Daniel Taiye Segun is a Software Developer with a strong focus on building innovative software solutions that enhance user experience, optimize operational efficiency, and drive business growth. With a passion for leveraging cutting-edge technologies such as AI and web development, I am dedicated to developing scalable, secure, and high-quality applications that deliver measurable impact.
+Software Developer with a strong focus on building innovative software solutions that enhance user experience, optimize operational efficiency, and drive business growth. With a passion for leveraging cutting-edge technologies such as AI and web development, I am dedicated to developing scalable, secure, and high-quality applications that deliver measurable impact.
 
 Adept at working collaboratively with cross-functional teams, mentoring junior developers, and continuously improving processes, my aim is to contribute to organizations that value technological innovation, efficiency, and data-driven decision-making.
 
