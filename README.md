@@ -7,7 +7,7 @@
   
 
   [![GitHub](https://img.shields.io/badge/GitHub-cstory1-black?style=for-the-badge&logo=github)](https://github.com/cstory1)
-  [![Location](https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-green?style=for-the-badge&logo=location)](https://maps.google.com/?q=Kaduna,Nigeria)
+  [![Location](https://img.shields.io/badge/Location-Kaduna%2C%20Nigeria-green?style=for-the-badge&logo=location)](https://maps.google.com/?q=Kaduna,Nigeria)
 </div>
 
 ---
