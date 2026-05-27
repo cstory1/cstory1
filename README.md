@@ -1,9 +1,9 @@
-# Senior Software Engineer Portfolio
+# Software Engineer Portfolio
 
 <div align="center">
   <img src="assets/images/my-avatar.png" alt="Daniel Taiye Segun" width="200" style="border-radius: 50%;">
   
-  ### Senior Software Engineer
+  ###Software Engineer
   
 
   [![GitHub](https://img.shields.io/badge/GitHub-cstory1-black?style=for-the-badge&logo=github)](https://github.com/cstory1)
