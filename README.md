@@ -80,16 +80,6 @@ Adept at working collaboratively with cross-functional teams, mentoring junior d
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- **AWS Certified Solutions Architect** - Amazon Web Services
-- **Google Cloud Professional Developer** - Google Cloud Platform
-- **Microsoft Certified: Azure Developer Associate** - Microsoft
-- **Certified Kubernetes Administrator (CKA)** - Cloud Native Computing Foundation
-- **MongoDB Certified Developer** - MongoDB University
-
----
-
 ## 🌟 What I'm Currently Working On
 
 - 🔥 **AI-Powered Code Review Tool** - Developing an intelligent code review system using machine learning
